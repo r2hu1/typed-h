@@ -6,7 +6,7 @@ A simple, lightweight Typewritting effect for your HTML elements.
 
 - Add the following script to your HTML file:
 ```html
-<script src="https://unpkg.com/typed-h@1.1.0/typed-h.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/r2hu1/typed-h/script.js"></script>
 ```
 
 - Add the following element to your HTML file:
