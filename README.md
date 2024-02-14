@@ -11,7 +11,7 @@ A simple, lightweight Typewritting effect for your HTML elements.
 
 - Add the following element to your HTML file:
 ```html
-<div id="typed-h"></div>
+<h1 id="typed-h">Some text</h1>
 ```
 
 - Intialize TypedH
