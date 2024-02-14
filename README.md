@@ -17,5 +17,5 @@ A simple, lightweight Typewritting effect for your HTML elements.
 - Intialize TypedH
 ```js
 const element = document.querySelector(".some-element-classname");
-TypedH({element,speed:200,reverced:false});
+typedH({element,speed:200,reverced:false});
 ```
