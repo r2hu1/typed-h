@@ -11,11 +11,11 @@ A simple, lightweight Typewritting effect for your HTML elements.
 
 - Add the following element to your HTML file:
 ```html
-<h1 id="typed-h">Some text</h1>
+<h1 class="some-classname">Some text</h1>
 ```
 
 - Intialize TypedH
 ```js
-const element = document.querySelector(".some-element-classname");
+const element = document.querySelector(".some-classname");
 typedH({element,speed:200,reverced:false});
 ```
